@@ -1,7 +1,7 @@
-import { defineConfig } from 'vite'
+timport { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Productpage/', // Replace 'PRODUCTPAGE' with your repository name
+  base: '/Productpagereact/', // Replace 'PRODUCTPAGE' with your repository name
 })
